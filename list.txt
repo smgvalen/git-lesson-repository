@@ -1,0 +1,9 @@
+about.html
+css/
+images/
+index.html
+index2.html
+list.txt
+README.md
+tasks.txt
+temp_images/
